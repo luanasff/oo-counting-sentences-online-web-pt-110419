@@ -36,10 +36,12 @@ end
 
 
   def count_sentences
-         if self.split > 0    
+         if self.split    
            return self.count 
-        else 
+        elsif self.count < 0 
           return "zero"
+        else 
+          return complex_string
         end 
         
     end 
