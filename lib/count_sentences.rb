@@ -39,7 +39,7 @@ end
          if self.split    
            return self.count 
         elsif self.count < 0 
-          return "zero"
+          return zero
         else 
           return complex_string
         end 
