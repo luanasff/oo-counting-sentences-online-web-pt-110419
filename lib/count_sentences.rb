@@ -37,7 +37,7 @@ end
 
   def count_sentences
       count_sentences.split 
-         self.count_sentences
+        return self.count_sentences
     end 
   
 end
