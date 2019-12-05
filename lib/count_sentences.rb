@@ -6,7 +6,7 @@ class String
     if string.end_with?(.)
       puts true 
     else 
-      false 
+      false  
     end 
   end
 
