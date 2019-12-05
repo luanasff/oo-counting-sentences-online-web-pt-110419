@@ -39,5 +39,5 @@ end
           complex_sentece = self.split 
             return self.count_sentences
           end 
-  
+    end 
 end
