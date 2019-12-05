@@ -13,6 +13,11 @@ end
 
 
   def question?
+    if self.end_with?("?")
+      return TRUE
+    else 
+      false 
+    end 
 
   end
 
