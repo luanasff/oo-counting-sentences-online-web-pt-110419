@@ -36,7 +36,7 @@ end
 
 
   def count_sentences
-         if self.split    
+         if self.count_sentences    
            return self.count 
         elsif self.count < 0 
           return zero
