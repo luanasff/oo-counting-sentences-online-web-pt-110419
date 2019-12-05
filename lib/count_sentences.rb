@@ -39,7 +39,7 @@ end
          if self.split > 0    
            return self.count 
         else 
-          return zero 
+          return "zero"
         end 
         
     
