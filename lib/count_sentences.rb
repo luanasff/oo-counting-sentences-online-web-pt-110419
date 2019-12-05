@@ -35,8 +35,8 @@ end
 
 
 
-  def count_sentences(complex_sentece)
-          complex_sentece = self.split 
+  def count_sentences
+          count_sentences=self.split 
             return self
           end 
     
