@@ -2,7 +2,7 @@ require 'pry'
 
 class String
 
-  def sentence?(string)
+  def sentence?("string.")
     if string.end_with?(".")
       puts true 
     else 
