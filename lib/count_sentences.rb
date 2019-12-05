@@ -21,6 +21,9 @@ end
 
   end
 
+
+
+
   def exclamation?
 
   end
